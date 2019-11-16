@@ -4,6 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/appshenghuidai" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/jiekou" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pandaonly" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/python3" vcs="Git" />
   </component>
 </project>
